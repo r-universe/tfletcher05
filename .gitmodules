@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psychometric"]
+	path = psychometric
+	url = https://github.com/cran/psychometric
+	shallow = true
+	registered = true
+[submodule "QuantPsyc"]
+	path = QuantPsyc
+	url = https://github.com/cran/QuantPsyc
+	shallow = true
+	registered = true
